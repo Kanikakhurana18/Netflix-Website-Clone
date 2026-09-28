@@ -1,5 +1,9 @@
-# Netflix Website Clone
+# Netflix Website Clone 🎬
 A responsive Netflix landing page clone built using **HTML, CSS, and JavaScript**. This project recreates the look and feel of the Netflix homepage with a modern dark UI, responsive sections, interactive FAQ, and basic button/email interactions.
+
+## 🔗 Links
+* **GitHub Repository:** [Netflix Website Clone](https://github.com/Kanikakhurana18/Netflix-Website-Clone)
+* **Live Demo:** [View Live Website](https://Kanikakhurana18.github.io/Netflix-Website-Clone/)
 
 ## Features
 * Netflix-style responsive homepage
@@ -18,12 +22,9 @@ A responsive Netflix landing page clone built using **HTML, CSS, and JavaScript*
 * HTML5
 * CSS3
 * JavaScript
-* Google Fonts
-* SVG
 * Responsive Web Design
 
 ## Project Structure
-
 ```text
 Netflix-Website-Clone/
 │
@@ -33,13 +34,16 @@ Netflix-Website-Clone/
 ├── favicon.ico
 │
 └── assets/
-    └── images/
-        ├── bg.jpg
-        └── logo.svg
+    ├── images/
+    │   └── logo.svg
+    │
+    └── videos/
+        └── Video 53_assets_videos_video1.m4v
 ```
 
 ## JavaScript Functionality
 JavaScript is used to add basic interactivity to the website:
+
 * Validates the email input when Get Started is clicked
 * Allows pressing Enter to submit the email
 * Adds interaction to the Sign In button
@@ -48,6 +52,7 @@ JavaScript is used to add basic interactivity to the website:
 * Rotates the FAQ plus icon when opened
 
 ## How to Run
+
 1. Clone the repository:
 
 ```bash
@@ -60,5 +65,7 @@ git clone https://github.com/Kanikakhurana18/Netflix-Website-Clone.git
 
 No backend or server is required because this is a static frontend project.
 
+## Author
+**Kanika Khurana**
 
-
+Built as a frontend web development project using HTML, CSS, and JavaScript.
