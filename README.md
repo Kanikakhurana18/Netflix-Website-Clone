@@ -67,5 +67,6 @@ No backend or server is required because this is a static frontend project.
 
 ## Author
 **Kanika Khurana**
-
 Built as a frontend web development project using HTML, CSS, and JavaScript.
+
+> ⚠️ Disclaimer: This is a frontend educational project created for learning and portfolio purposes. It is a Netflix-inspired UI clone and is not affiliated with, endorsed by, or connected to Netflix, Inc. No real user credentials or personal information are collected.
